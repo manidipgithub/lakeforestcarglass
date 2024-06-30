@@ -1,2 +1,0 @@
-# lakeforestcarglass
-My awesome repository
